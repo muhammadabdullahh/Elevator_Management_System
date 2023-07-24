@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.elevator.ElevatorAnimatorTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.283 s - in com.example.elevator.ElevatorAnimatorTest
